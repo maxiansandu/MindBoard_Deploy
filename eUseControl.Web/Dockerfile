@@ -1,10 +1,21 @@
+# Etapa 1: Build
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
-WORKDIR /app
+WORKDIR /src
+
+# Copiem toate folderele și soluția în container
 COPY . .
-RUN dotnet publish -c Release -o out
 
+# Mergem în folderul proiectului web și publicăm (build & publish)
+WORKDIR /src/eUseControl.Web
+RUN dotnet publish -c Release -o /app/out
 
-FROM mcr.microsoft.com/dotnet/aspnet:9.0
+# Etapa 2: Runtime
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
 WORKDIR /app
-COPY --from=build /app/out .
+
+# Copiem fișierele publicate din etapa de build
+COPY --from=build /app/out ./
+
+# Comanda de start
 ENTRYPOINT ["dotnet", "eUseControl.Web.dll"]
+
