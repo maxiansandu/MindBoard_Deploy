@@ -1,0 +1,16 @@
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/bin/Debug/net9.0/eUseControl.BussinesLogic.deps.json
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/bin/Debug/net9.0/eUseControl.BussinesLogic.dll
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/bin/Debug/net9.0/eUseControl.BussinesLogic.pdb
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/bin/Debug/net9.0/eUseControl.Domain.dll
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/bin/Debug/net9.0/eUseControl.Domain.pdb
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseControl.BussinesLogic.csproj.AssemblyReference.cache
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseControl.BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseControl.BussinesLogic.AssemblyInfoInputs.cache
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseControl.BussinesLogic.AssemblyInfo.cs
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseControl.BussinesLogic.csproj.CoreCompileInputs.cache
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseControl.BussinesLogic.sourcelink.json
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseCont.0A20F554.Up2Date
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseControl.BussinesLogic.dll
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/refint/eUseControl.BussinesLogic.dll
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/eUseControl.BussinesLogic.pdb
+/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/Debug/net9.0/ref/eUseControl.BussinesLogic.dll

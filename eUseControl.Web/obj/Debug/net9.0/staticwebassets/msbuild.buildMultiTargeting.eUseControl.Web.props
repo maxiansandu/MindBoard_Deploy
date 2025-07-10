@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/eUseControl.Web.props" />
+</Project>
