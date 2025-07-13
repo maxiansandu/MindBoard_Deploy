@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eUseControl.BussinesLogic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c38976fea11c8c4c823eb08ca041fc0b21074265")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1cd3c7a8b020bded588b66c3428406769eb815")]
 [assembly: System.Reflection.AssemblyProductAttribute("eUseControl.BussinesLogic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eUseControl.BussinesLogic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

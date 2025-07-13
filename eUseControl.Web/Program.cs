@@ -1,5 +1,8 @@
 using eUseControl.BussinesLogic.DBModel;
 using Microsoft.EntityFrameworkCore;
+using eUseControl.BussinesLogic;
+using eUseControl.BussinesLogic.Interfaces;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +12,9 @@ builder.Services.AddControllersWithViews()
 
 builder.Services.AddDbContext<UserContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<UserContext>();
+builder.Services.AddScoped<IUserSession, BL.uSessionBL>();
 
 var app = builder.Build();
 
