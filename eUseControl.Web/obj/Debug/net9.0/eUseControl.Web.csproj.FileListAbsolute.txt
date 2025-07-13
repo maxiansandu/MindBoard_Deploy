@@ -25,9 +25,7 @@
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/scopedcss/bundle/eUseControl.Web.styles.css
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/scopedcss/projectbundle/eUseControl.Web.bundle.scp.css
-/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/dtlukck9o3-b9sayid5wm.gz
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/0t2w0kw3ak-61n19gt1b8.gz
-/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/r6bf7e1v5u-xtxxf3hu2r.gz
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/ybdevclryp-bqjiyaj88i.gz
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/jd1sxe35ob-c2jlpeoesf.gz
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/b248g3r7pe-erw9l3u2r3.gz
@@ -87,8 +85,6 @@
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/ys138b81q8-muycvpuwrr.gz
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/1cptgyya44-87fc7y1x7t.gz
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/1paqrzs0e5-mlv21k5csn.gz
-/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/j5fuq771fg-y3478m4db1.gz
-/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/keyhxx54bz-y3478m4db1.gz
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/staticwebassets.build.json
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/staticwebassets.development.json
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -500,3 +496,7 @@
 /home/nicu/Documents/my_summer_project/eUseControl.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
 /home/nicu/Documents/my_summer_project/eUseControl.Web/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
 /home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/eUseControl.Web.MvcApplicationPartsAssemblyInfo.cs
+/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/r6bf7e1v5u-z7s3owm2md.gz
+/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/j5fuq771fg-mwm8fah8hi.gz
+/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/keyhxx54bz-mwm8fah8hi.gz
+/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/compressed/dtlukck9o3-sph6fqqigh.gz

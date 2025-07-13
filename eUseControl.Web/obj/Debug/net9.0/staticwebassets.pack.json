@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/Debug/net9.0/scopedcss/projectbundle/eUseControl.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets/eUseControl.Web.y3478m4db1.bundle.scp.css"
+      "PackagePath": "staticwebassets/eUseControl.Web.mwm8fah8hi.bundle.scp.css"
     },
     {
       "Id": "/home/nicu/Documents/my_summer_project/eUseControl.Web/wwwroot/css/site.css",
@@ -11,6 +11,18 @@
     {
       "Id": "/home/nicu/Documents/my_summer_project/eUseControl.Web/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/nicu/Documents/my_summer_project/eUseControl.Web/wwwroot/img/homebg.jpg",
+      "PackagePath": "staticwebassets/img/homebg.jpg"
+    },
+    {
+      "Id": "/home/nicu/Documents/my_summer_project/eUseControl.Web/wwwroot/img/login.jpg",
+      "PackagePath": "staticwebassets/img/login.jpg"
+    },
+    {
+      "Id": "/home/nicu/Documents/my_summer_project/eUseControl.Web/wwwroot/img/register_iamge.jpg",
+      "PackagePath": "staticwebassets/img/register_iamge.jpg"
     },
     {
       "Id": "/home/nicu/Documents/my_summer_project/eUseControl.Web/wwwroot/js/site.js",

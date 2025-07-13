@@ -1,45 +1,50 @@
-﻿<div id="home_body">
+﻿@{
 
-    <div id="Motto_div"">
+    ViewBag.bodyclass = "home_page_bg";
+}
+
+
+
+<div id="Motto_div"">
       
         <p style=" margin-left: 20px;">Ideas start here,</p>
-        <p style=" margin-left: 100px;">Write it. Feel it. Remember it.</p>
-        <p style="margin-top: 50px; margin-left: 50px; ">Capture your thoughts before they fly away.</p>
-        <p style="margin-top: 60px;">Grow your mind, one note at a time.</p>
-        <p style="margin-top: 60px; margin-left: 180px;">Every great idea begins with a note</p>
+    <p style=" margin-left: 100px;">Write it. Feel it. Remember it.</p>
+    <p style="margin-top: 50px; margin-left: 50px; ">Capture your thoughts before they fly away.</p>
+    <p style="margin-top: 60px;">Grow your mind, one note at a time.</p>
+    <p style="margin-top: 60px; margin-left: 180px;">Every great idea begins with a note</p>
 
-        <div class="container my-5 p-4 rounded" style="max-width: 700px; margin-left: 1100px;">
-            <div class="row row-cols-1 row-cols-sm-2 g-4 text-center">
-                <div class="col">
-                    <a href="/Note/Add" class="btn btn-light border shadow-sm w-100 h-100 p-4">
-                        <div class="mt-2">Add Note</div>
-                    </a>
-                </div>
-                
+    <div class="container my-5 p-4 rounded" style="max-width: 700px; margin-left: 1100px;">
+        <div class="row row-cols-1 row-cols-sm-2 g-4 text-center">
+            <div class="col">
+                <a href="/Note/Add" class="btn btn-light border shadow-sm w-100 h-100 p-4">
+                    <div class="mt-2">Add Note</div>
+                </a>
+            </div>
 
-                <div class="col">
-                    <a href="/Note/All" class="btn btn-light border shadow-sm w-100 h-100 p-4">
-                        <div class="mt-2">All Notes</div>
-                    </a>
-                </div>
 
-                <div class="col">
-                    <a href="/Note/Completed" class="btn btn-light border shadow-sm w-100 h-100 p-4">
-                        <div class="mt-2">Completed</div>
-                    </a>
-                </div>
+            <div class="col">
+                <a href="/Note/All" class="btn btn-light border shadow-sm w-100 h-100 p-4">
+                    <div class="mt-2">All Notes</div>
+                </a>
+            </div>
 
-                <div class="col">
-                    <a href="/Note/Pending" class="btn btn-light border shadow-sm w-100 h-100 p-4">
-                        <div class="mt-2">Pending</div>
-                    </a>
-                </div>
+            <div class="col">
+                <a href="/Note/Completed" class="btn btn-light border shadow-sm w-100 h-100 p-4">
+                    <div class="mt-2">Completed</div>
+                </a>
+            </div>
+
+            <div class="col">
+                <a href="/Note/Pending" class="btn btn-light border shadow-sm w-100 h-100 p-4">
+                    <div class="mt-2">Pending</div>
+                </a>
             </div>
         </div>
-
-
     </div>
+
+
 </div>
+
 
 </div>
 

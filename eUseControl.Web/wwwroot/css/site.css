@@ -38,19 +38,21 @@ h1 {
   color: red;
 }
 
-#home_body {
+.home_page_bg {
 
-  margin-top: -20px;
+
   background-image: url(/img/homebg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+  min-height: 100vh;
 
 
-  width: 1859px;
-  height: 1080px;
+
 }
+
+
 
 #Motto_div {
 
@@ -69,6 +71,8 @@ h1 {
   width: 1920px;
   height: 200px;
   background-color: rgb(255, 245, 232);
+  margin-top: 1000px;
+  position: absolute;
 
 }
 
@@ -103,4 +107,52 @@ h1 {
 
 .sub-footer-list a:hover {
   color: #007bff;
+}
+
+
+.login_page_bg {
+
+  background-image: url(/img/login.jpg);
+  position: fixed;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#login_box {
+
+  background-color: rgba(255, 254, 212, 0.23);
+  width: 523px;
+  height: 500px;
+  border-radius: 30px;
+
+}
+
+#register_box {
+
+  background-color: rgba(255, 254, 212, 0.23);
+  width: 523px;
+  height: 700px;
+  border-radius: 30px;
+
+}
+
+.but_submit {
+  transition: color 0.2s ease;
+  margin-left: 65px;
+
+}
+
+.but_submit:hover {
+
+  background-color: rgb(234, 0, 0);
+}
+
+.register_page_bg {
+
+  background-image: url(/img/register_iamge.jpg);
+  position: fixed;
+  background-size: cover;
+  background-position: center;
+
 }

@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.bodyclass = "register_page_bg";
+}
+
+
+
+
+
+<div id="register_box" style=" margin-left: 135%; margin-top: 20%;">
+    <div style="margin-left: 100px;">
+        <h1 style="justify-content: center; color:black; margin-left: 100px;">Login</h1>
+
+
+        <form style="font-size: 23px;" asp-action="register">
+            <label for="username">Username</label><br>
+            <input type="text" id="username" name="username"><br><br>
+
+            <label for="password">Password</label><br>
+            <input type="password" id="password" name="password"><br><br>
+
+            <label for="password">Confirm Password</label><br>
+            <input type="password" id="password" name="ConfirmPassword"><br><br>
+
+            <label for="email">Email</label><br>
+            <input type="email" id="email" name="email"><br><br>
+
+            <button class="but_submit" type="submit"
+                style="width: 200px; background-color: rgba(0, 0, 0, 0.62); color:white;">Enter</button>
+        </form>
+
+        <p>Don't have an acount?</p>
+        <a class="nav-link" asp-controller="Register" asp-action="reg">Register now</a>
+
+    </div>
+
+</div>
