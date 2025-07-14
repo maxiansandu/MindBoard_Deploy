@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eUseControl.Helpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1cd3c7a8b020bded588b66c3428406769eb815")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa44715bcf5a5146cb22281c9933f3d6e2b43461")]
 [assembly: System.Reflection.AssemblyProductAttribute("eUseControl.Helpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eUseControl.Helpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

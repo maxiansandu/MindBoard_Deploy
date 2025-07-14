@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ItQAKPktK4M=",
+  "dgSpecHash": "GMeFVm6ROuQ=",
   "success": true,
-  "projectFilePath": "/home/nicu/Documents/my_summer_project/eUseControl.Web/eUseControl.Web.csproj",
+  "projectFilePath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Web/eUseControl.Web.csproj",
   "expectedPackageFiles": [
     "/home/nicu/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/nicu/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/6.0.0/microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",

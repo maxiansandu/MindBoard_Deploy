@@ -707,11 +707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj",
+      "projectUniqueName": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj",
       "projectName": "eUseControl.BussinesLogic",
-      "projectPath": "/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj",
+      "projectPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj",
       "packagesPath": "/home/nicu/.nuget/packages/",
-      "outputPath": "/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/obj/",
+      "outputPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.BussinesLogic/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nicu/.nuget/NuGet/NuGet.Config"
@@ -726,8 +726,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/nicu/Documents/my_summer_project/eUseControl.Domain/eUseControl.Domain.csproj": {
-              "projectPath": "/home/nicu/Documents/my_summer_project/eUseControl.Domain/eUseControl.Domain.csproj"
+            "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/eUseControl.Domain.csproj": {
+              "projectPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/eUseControl.Domain.csproj"
             }
           }
         }

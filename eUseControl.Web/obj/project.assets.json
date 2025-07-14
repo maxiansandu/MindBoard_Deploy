@@ -2963,11 +2963,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nicu/Documents/my_summer_project/eUseControl.Web/eUseControl.Web.csproj",
+      "projectUniqueName": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Web/eUseControl.Web.csproj",
       "projectName": "eUseControl.Web",
-      "projectPath": "/home/nicu/Documents/my_summer_project/eUseControl.Web/eUseControl.Web.csproj",
+      "projectPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Web/eUseControl.Web.csproj",
       "packagesPath": "/home/nicu/.nuget/packages/",
-      "outputPath": "/home/nicu/Documents/my_summer_project/eUseControl.Web/obj/",
+      "outputPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nicu/.nuget/NuGet/NuGet.Config"
@@ -2982,14 +2982,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj": {
-              "projectPath": "/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj"
+            "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj": {
+              "projectPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj"
             },
-            "/home/nicu/Documents/my_summer_project/eUseControl.Domain/eUseControl.Domain.csproj": {
-              "projectPath": "/home/nicu/Documents/my_summer_project/eUseControl.Domain/eUseControl.Domain.csproj"
+            "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/eUseControl.Domain.csproj": {
+              "projectPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/eUseControl.Domain.csproj"
             },
-            "/home/nicu/Documents/my_summer_project/eUseControl.Helpers/eUseControl.Helpers.csproj": {
-              "projectPath": "/home/nicu/Documents/my_summer_project/eUseControl.Helpers/eUseControl.Helpers.csproj"
+            "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Helpers/eUseControl.Helpers.csproj": {
+              "projectPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Helpers/eUseControl.Helpers.csproj"
             }
           }
         }

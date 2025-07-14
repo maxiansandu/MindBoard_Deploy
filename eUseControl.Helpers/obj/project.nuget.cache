@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ai5ehhmOVQo=",
+  "dgSpecHash": "djk73PiDE/M=",
   "success": true,
-  "projectFilePath": "/home/nicu/Documents/my_summer_project/eUseControl.Helpers/eUseControl.Helpers.csproj",
+  "projectFilePath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Helpers/eUseControl.Helpers.csproj",
   "expectedPackageFiles": [
     "/home/nicu/.nuget/packages/microsoft.entityframeworkcore/9.0.7/microsoft.entityframeworkcore.9.0.7.nupkg.sha512",
     "/home/nicu/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.7/microsoft.entityframeworkcore.abstractions.9.0.7.nupkg.sha512",

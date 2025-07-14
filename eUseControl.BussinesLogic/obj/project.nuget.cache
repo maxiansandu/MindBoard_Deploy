@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SxTTsM1qxPs=",
+  "dgSpecHash": "Qyss3xgfFcY=",
   "success": true,
-  "projectFilePath": "/home/nicu/Documents/my_summer_project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj",
+  "projectFilePath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.BussinesLogic/eUseControl.BussinesLogic.csproj",
   "expectedPackageFiles": [
     "/home/nicu/.nuget/packages/microsoft.entityframeworkcore/9.0.7/microsoft.entityframeworkcore.9.0.7.nupkg.sha512",
     "/home/nicu/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.7/microsoft.entityframeworkcore.abstractions.9.0.7.nupkg.sha512",

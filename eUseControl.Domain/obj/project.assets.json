@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nicu/Documents/my_summer_project/eUseControl.Domain/eUseControl.Domain.csproj",
+      "projectUniqueName": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/eUseControl.Domain.csproj",
       "projectName": "eUseControl.Domain",
-      "projectPath": "/home/nicu/Documents/my_summer_project/eUseControl.Domain/eUseControl.Domain.csproj",
+      "projectPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/eUseControl.Domain.csproj",
       "packagesPath": "/home/nicu/.nuget/packages/",
-      "outputPath": "/home/nicu/Documents/my_summer_project/eUseControl.Domain/obj/",
+      "outputPath": "/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nicu/.nuget/NuGet/NuGet.Config"
