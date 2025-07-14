@@ -8,7 +8,7 @@ namespace eUseControl.BussinesLogic;
 
 public class BL
 {
-   
+
 
     public class uSessionBL : UserApi, IUserSession
     {
@@ -27,3 +27,4 @@ public class BL
     }
 
 }
+//Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=postgres
