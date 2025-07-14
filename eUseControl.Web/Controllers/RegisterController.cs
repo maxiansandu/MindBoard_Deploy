@@ -18,9 +18,9 @@ namespace eUseControl.Web.Controllers
         private readonly IUserSession _userSession;
 
         public RegisterController(IUserSession userSession)
-    {
-        _userSession = userSession;
-    }
+        {
+            _userSession = userSession;
+        }
 
         public ActionResult register(string username, string password, string ConfirmPassword, string email)
         {
@@ -43,12 +43,13 @@ namespace eUseControl.Web.Controllers
             UserDataRegister.Password = RegisterData.Password;
             UserDataRegister.Email = RegisterData.Email;
 
- 
-            RegisterResult response =_userSession.RegistrUser(UserDataRegister);
 
-           bool status =  response.result;
+            RegisterResult response = _userSession.RegistrUser(UserDataRegister);
 
-            return View();
+            bool status = response.result;
+
+            return Redirect("https://www.google.com");
+
         }
 
     }

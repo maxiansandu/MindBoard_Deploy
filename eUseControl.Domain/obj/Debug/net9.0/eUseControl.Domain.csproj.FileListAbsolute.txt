@@ -10,3 +10,15 @@
 /home/nicu/Documents/my_summer_project/eUseControl.Domain/obj/Debug/net9.0/refint/eUseControl.Domain.dll
 /home/nicu/Documents/my_summer_project/eUseControl.Domain/obj/Debug/net9.0/eUseControl.Domain.pdb
 /home/nicu/Documents/my_summer_project/eUseControl.Domain/obj/Debug/net9.0/ref/eUseControl.Domain.dll
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/bin/Debug/net9.0/eUseControl.Domain.deps.json
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/bin/Debug/net9.0/eUseControl.Domain.dll
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/bin/Debug/net9.0/eUseControl.Domain.pdb
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/eUseControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/eUseControl.Domain.AssemblyInfoInputs.cache
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/eUseControl.Domain.AssemblyInfo.cs
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/eUseControl.Domain.csproj.CoreCompileInputs.cache
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/eUseControl.Domain.sourcelink.json
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/eUseControl.Domain.dll
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/refint/eUseControl.Domain.dll
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/eUseControl.Domain.pdb
+/home/nicu/Documents/Deploy/MindBoard_Project/eUseControl.Domain/obj/Debug/net9.0/ref/eUseControl.Domain.dll
